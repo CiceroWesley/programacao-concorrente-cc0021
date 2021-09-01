@@ -49,7 +49,7 @@ int main(){
             }
         }
         printf("Tempo de processamento: %f\n",tempo_proc);
-        printf("PRIMOSOIIII:%ld",count);
+        printf("PRIMOS:%ld",count);
 
     }
     MPI_Barrier(MPI_COMM_WORLD);
